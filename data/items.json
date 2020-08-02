@@ -1,0 +1,222 @@
+{
+  "Amanita Mushrooms": {
+    "Death": 4,
+    "Soul": 2,
+    "Transform": 1
+  },
+  "Animal Bones": {
+    "Earth": 2,
+    "Soul": 2,
+    "Transfer": 2
+  },
+  "Animated Flesh": {
+    "Order": 2,
+    "Soul": 4,
+    "Time": 2
+  },
+  "Antlers": {
+    "Knowledge": 3,
+    "Soul": 3,
+    "Time": 2
+  },
+  "Arnica": {
+    "Order": 2,
+    "Transform": 1,
+    "Water": 4
+  },
+  "Ashes": {
+    "Soul": 2,
+    "Time": 3,
+    "Transfer": 2
+  },
+  "Bear Claws": {
+    "Body": 2,
+    "Destroy": 3,
+    "Fire": 3
+  },
+  "Beast Blood": {
+    "Energy": 2,
+    "Fire": 2,
+    "Transfer": 4
+  },
+  "Bitterleaf": {
+    "Fire": 2,
+    "Life": 3,
+    "Water": 3
+  },
+  "Bloodvein": {
+    "Create": 2,
+    "Fire": 4,
+    "Life": 1
+  },
+  "Brain Mushrooms": {
+    "Create": 1,
+    "Knowledge": 4,
+    "Mind": 2
+  },
+  "Callous Mark": {
+    "Earth": 2,
+    "Negate": 4,
+    "Water": 2
+  },
+  "Crystallized Magic": {
+    "Energy": 4,
+    "Mind": 1,
+    "Water": 4
+  },
+  "Dandelion": {
+    "Air": 2,
+    "Chaos": 1,
+    "Time": 2
+  },
+  "Dark Splinters": {
+    "Death": 1,
+    "Destroy": 3,
+    "Earth": 3
+  },
+  "Death Crystal": {
+    "Death": 4,
+    "Negate": 2,
+    "Time": 2
+  },
+  "Fertile Dirt": {
+    "Earth": 3,
+    "Life": 1,
+    "Transfer": 3
+  },
+  "Fox Tail": {
+    "Air": 3,
+    "Mind": 3,
+    "Transfer": 2
+  },
+  "Garlic": {
+    "Body": 2,
+    "Earth": 2,
+    "Energy": 2
+  },
+  "Ghoul Saliva": {
+    "Chaos": 3,
+    "Death": 3,
+    "Transfer": 2
+  },
+  "Goblin Tongue": {
+    "Negate": 3,
+    "Order": 2,
+    "Soul": 2
+  },
+  "Honeynail Mushrooms": {
+    "Body": 2,
+    "Life": 3,
+    "Transform": 3
+  },
+  "Lavender": {
+    "Energy": 2,
+    "Negate": 4,
+    "Water": 1
+  },
+  "Living Wood": {
+    "Life": 4,
+    "Mind": 1,
+    "Order": 2
+  },
+  "Mandrake Root": {
+    "Energy": 3,
+    "Knowledge": 2,
+    "Mind": 2
+  },
+  "Milkweed": {
+    "Negate": 2,
+    "Time": 3,
+    "Water": 3
+  },
+  "Necrotic Bone": {
+    "Death": 4,
+    "Life": 3,
+    "Transfer": 2
+  },
+  "Nightshade Berries": {
+    "Body": 1,
+    "Death": 3,
+    "Time": 3
+  },
+  "Penny Bun Mushrooms": {
+    "Body": 4,
+    "Earth": 1,
+    "Order": 2
+  },
+  "Plagued Remains": {
+    "Body": 2,
+    "Chaos": 3,
+    "Earth": 2
+  },
+  "Primordial Dust": {
+    "Chaos": 3,
+    "Time": 3,
+    "Transform": 2
+  },
+  "Pulsating Geode": {
+    "Earth": 2,
+    "Knowledge": 3,
+    "Mind": 4
+  },
+  "Rabbit Paw": {
+    "Chaos": 3,
+    "Energy": 3,
+    "Soul": 2
+  },
+  "Shard of Corruption": {
+    "Death": 4,
+    "Destroy": 3,
+    "Fire": 2
+  },
+  "Spark of Life": {
+    "Create": 2,
+    "Life": 4,
+    "Soul": 2
+  },
+  "Spider Eye": {
+    "Knowledge": 1,
+    "Mind": 2,
+    "Transfer": 3
+  },
+  "Spider Gland": {
+    "Life": 3,
+    "Order": 3,
+    "Transform": 2
+  },
+  "Sulphur": {
+    "Destroy": 2,
+    "Energy": 2,
+    "Fire": 4
+  },
+  "Treants Sap": {
+    "Body": 2,
+    "Life": 1,
+    "Transfer": 4
+  },
+  "Warg Fang": {
+    "Body": 3,
+    "Death": 2,
+    "Destroy": 4
+  },
+  "White Cap Mushrooms": {
+    "Air": 1,
+    "Destroy": 2,
+    "Soul": 4
+  },
+  "Wolf Teeth": {
+    "Body": 3,
+    "Destroy": 3,
+    "Earth": 2
+  },
+  "Wolfsbane": {
+    "Air": 2,
+    "Death": 3,
+    "Negate": 3
+  },
+  "Zombie Brain": {
+    "Chaos": 4,
+    "Mind": 3,
+    "Transform": 1
+  }
+}

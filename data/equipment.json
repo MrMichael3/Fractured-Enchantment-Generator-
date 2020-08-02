@@ -1,0 +1,6 @@
+{
+  "Weapons":  ["Melee Damage Increase", "Critical Chance", "Critical Damage", "Spell Damage Increase", "Accuracy Bonus", "Luck Bonus", "Durable"],
+  "Armor":  ["Endurance Regeneration Bonus", "Mana Regeneration Bonus", "Evasion Bonus", "Accuracy Bonus", "Fortitude Bonus", "Willpower Bonus", "Fire Resistance", "Ice Resistance", "Shock Resistance", "Magic Resistance", "Poison Resistance", "Acid Resistance", "Luck Bonus", "Durable"],
+  "Trinkets": ["Bonus Endurance", "Endurance Regeneration Bonus", "Life Regeneration Bonus", "Bonus Mana", "Mana Regeneration Bonus", "Strength Bonus", "Dexterity Bonus", "Perception Bonus", "Intelligence Bonus", "Charisma Bonus", "Constitution Bonus", "Melee Damage Increase", "Critical Chance", "Critical Damage", "Spell Damage Increase", "Evasion Bonus", "Accuracy Bonus", "Fortitude Bonus", "Willpower Bonus", "Fire Resistance", "Ice Resistance", "Shock Resistance", "Magic Resistance", "Poison Resistance", "Acid Resistance", "Lower Mana Cost", "Cooldown Reduction", "Stealth Bonus"],
+  "Shield":  ["Evasion Bonus", "Fortitude Bonus", "Willpower Bonus", "Luck Bonus", "Fire Resistance", "Ice Resistance", "Shock Resistance", "Magic Resistance", "Poison Resistance", "Acid Resistance", "Durable"]
+}
