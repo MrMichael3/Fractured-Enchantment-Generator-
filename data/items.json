@@ -139,6 +139,12 @@
     "Death": 3,
     "Time": 3
   },
+"Noxious Fumes":
+{
+  "Destroy": 4,
+  "Air": 2,
+  "Time": 3
+},
   "Penny Bun Mushrooms": {
     "Body": 4,
     "Earth": 1,
